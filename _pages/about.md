@@ -34,8 +34,8 @@ I love to explore new places and I love to meet new people, and if you're readin
 <h2> 🤳 Connect with me:</h2>
 
 <br>🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, Medical Field, and DataBase. </br>
-💬 Ask me about anything?
-⚡ Fun fact: Did you know that Armenia was the first country to adopt Christianity as a state religion in 301 A.D.
+<br>💬 Ask me about anything?</br>
+<br>⚡ Fun fact: Did you know that Armenia was the first country to adopt Christianity as a state religion in 301 A.D.</br>
 
 
 
