@@ -40,7 +40,7 @@ Work experience
 Skills
 ======
 * Programming Languages
-  * C++, C, Java, JavaScript, Python, SQL, Haskell, Kotlin, BASIC, Swift, and Jupyter Notebook
+  * C++, C, Java, JavaScript, Python, SQL, Haskell, Kotlin, BASIC, Swift, Jupyter Notebook
 * Operating Systems
   * Windows, Linux, Mac OS X, Ubuntu, Kali Linux
 * Web Development
@@ -59,7 +59,7 @@ Skills
   * Wireshark
 * Vulnerability Scanner
   * Nessus
-* Medical - Biomedical Software
+* Medical & Biomedical Software
   * 3D Slicer
 * Photo & Design Software
   * Adobe Photoshop
