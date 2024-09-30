@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Mary!"
+title: "Mary's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+👋🏼 Hello there, I'm Mary!
 
 I graduated with a Master of Science in Computer Science. I have a passion for computers. I have many computer skills, knowledge, and fundamentals. In my spare time, I love reading and learning new things I have never tried. 
 
