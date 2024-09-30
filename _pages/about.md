@@ -8,7 +8,30 @@ redirect_from:
   - /about.html
 ---
 
+I graduated with a Master of Science in Computer Science. I have a passion for computers. I have many computer skills, knowledge, and fundamentals. In my spare time, I love reading and learning new things I have never tried. 
 
+I absolutely admire abstraction, photography, paintings, films, music, mathematics, physics, astrology, neurology, cybersecurity, etc. 
+
+I am a world traveler, and in my spare time, I love to try different cuisines and understand the countries/states' history. Also, I value trying and tasting different kinds of incredibly delicious foods! 
+
+“’Eat your food with joy and drink your wine with merry heart’ Ecclesiastes 9:7.” 
+
+I love to visit monasteries, ancient ruins -- church ruins -- churches. 
+
+I love to watch films, and some of my favorite movies are Doctor Zhivago, The 10th Victim, The Color of Pomegranate, Rebel Without a Cause, Breakfast at Tiffany's, and much more.
+
+I am an avid hiker and have hiked many places, yet I have discovered human nature and the world. 
+
+Also, I love to visit the desert and mountains.
+
+My favorite hiking places were the Armenian mountains, Mount Sinai, and camel trekking in the Sahara desert.
+
+I love to explore new places and I love to meet new people, and if you're reading this, then nice to meet you!
+<h2> 🤳 Connect with me:</h2>
+
+- 🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, Medical Field, and DataBase.
+- 💬 Ask me about anything?
+- ⚡ Fun fact: Did you know that Armenia was the first country to adopt Christianity as a state religion in 301 A.D.
 
 
 
