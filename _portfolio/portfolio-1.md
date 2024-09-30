@@ -1,6 +1,6 @@
 ---
 title: "Spam Identifier"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Machine Learning Based Spam Detection that will be able to identify emails or text messages as spam or ham<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
