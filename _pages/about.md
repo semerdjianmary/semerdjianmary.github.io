@@ -30,7 +30,7 @@ Also, I love to visit the desert and mountains.
 
 My favorite hiking places were the Armenian mountains, Mount Sinai, and camel trekking in the Sahara desert.
 
-I love to explore new places and I love to meet new people, and if you're reading this, then nice to meet you!
+<br>I love to explore new places and I love to meet new people, and if you're reading this, then nice to meet you!
 <br>🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, Medical Field, and DataBase. 
 <br>💬 Ask me about anything?
 <br>⚡ Fun fact: Did you know that Armenia was the first country to adopt Christianity as a state religion in 301 A.D.
