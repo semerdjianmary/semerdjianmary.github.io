@@ -28,7 +28,7 @@ I am an avid hiker and have hiked many places, yet I have discovered human natur
 
 Also, I love to visit the desert and mountains.
 
-My favorite hiking places were the Armenian mountains, Mount Sinai, and camel trekking in the Sahara desert.
+My favorite hiking places were the Armenian mountains, Mount Sinai, and camel trekking in the Sahara and Arabian desert.
 
 I love to explore new places and I love to meet new people, and if you're reading this, then nice to meet you!
 
