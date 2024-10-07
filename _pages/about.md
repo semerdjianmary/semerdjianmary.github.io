@@ -20,7 +20,7 @@ I am a world traveler, and in my spare time, I love to try different cuisines an
 
 I love to visit monasteries, ancient ruins -- church ruins -- churches. 
 
-I like to watch films, and some of my favorite movies are Doctor Zhivago, The 10th Victim, The Color of Pomegranate, Rebel Without a Cause, Breakfast at Tiffany's, The Graduate, All the President's Men, and much more.
+I like to watch films, and some of my favorite movies are Doctor Zhivago, The 10th Victim, The Color of Pomegranate, Rebel Without a Cause, Breakfast at Tiffany's, The Graduate, All the President's Men, Pretty Woman, and much more.
 
 I enjoy playing musicial instruments.
 
