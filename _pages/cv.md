@@ -11,54 +11,90 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, California State University Los Angeles
+* B.S. in Computer Science, California State University Los Angeles
+* A.A. in Computer Science, Los Angeles City College
+* A.A. in Computer Information Systems, Los Angeles City College
+* A.S. in Physics for Transfer, Los Angeles City College
+* A.A. in Liberal Arts - Natural Sciences and Mathematics, Los Angeles City College
+* A.A. in Liberal Arts - Arts and Humanities, Los Angeles City College
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Network Security Graduate Assistant
+  * California State University Los Angeles
+  * Assisted a Computer Science Professor at California State University, Los Angeles in a Computer and Network Security class with 60+ graduate students, focusing on network security tools, and supported students in installing and configuring intrusion detection systems, firewalls, and VPNs, among other technologies.
+  * Collaborating with the professor with additional support and contributing to academic education through laboratory work, special projects, and various educational activities, giving students positive feedback, grading their assignments, and enhancing the student's understanding of network security concepts and beyond. 
+  * Supervisor: Professor Edmund Gean
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Master Thesis
+  * California State University Los Angeles
+  * Wrote a Master Thesis under the supervision of Dr. Zilong Ye during my final year as a graduate student.
+  * Focusing on and researching Distributed Denial of Service (DDoS) attacks.
+  * Utilized two machine learning datasets and applied statistical algorithms, basic algorithms, and neural networks to analyze them.
+  * This experience helped me develop and gain skills in cybersecurity and networking, as well as understand how to use these small and large datasets and how to use GPU to test and train the data.
+  * I applied machine learning, statistical learning, probability theory, and neural networks to analyze the datasets effectively.
+  * Advisor: Dr. Zilong Ye
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Capstone Senior Design Program
+  * California State University Los Angeles
+  * Worked with a group to convert MRI images of pelvic organs into three-dimensional model objects.
+  * Learned the basics of 3-D modeling using 3D Slicer, 3-D visualization software, and experimenting with Nvidia AIAA, an API that allows users to conveniently create 3-D model objects using trained data to automate it.
+  * Focused on creating our own AI model and training it using our data – MRI images of pelvic organs and, lastly, training our own AI model using Clara Train SDK. 
+  * [Link to Senior Capstone Project](https://csns.cysun.org/department/cs/project/view?id=7873479)
+  * Advisor: Dr. Negin Forouzesh
+  * Sponsored: Dr. Mathias Brieu (Biomedical)
+<img src='/images/seniordesign.png'>
+  
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C++, C, Java, JavaScript, Python, SQL, Haskell, Kotlin, BASIC, Swift, Jupyter Notebook
+* Operating Systems
+  * Windows, Linux, Mac OS X, Ubuntu, Kali Linux
+* Web Development
+  * HTML/CSS, Bootstrap, JavaScript, PHP
+* Database Systems
+  * MySQL, MongoDB, phpMyAdmin , MariaDB
+* Network Security
+  * Cisco
+* Network Scanner
+  * Nmap
+* Network Intrusion Detection System
+  * Snort
+* Penetration Testing
+  * Metasploit
+* Packet Analyzer
+  * Wireshark
+* Vulnerability Scanner
+  * Nessus
+* Medical & Biomedical Software
+  * 3D Slicer
+* Photo & Design Software
+  * Adobe Photoshop
+       
+Languages
+======
+* Bilingual in Armenian and English and basic knowledge of Spanish.
+  
+Certifications 
+======
+* National Cyber League
+  * NCL Fall 2022 Individual Game
+<img src='/images/ncl-1.png'>
 
-Publications
+* HackerRank
+  * SQL Basic
+<img src='/images/sql_basic.png'>
+
+Webcasts 
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<img src='/images/webcast_certificate-1.png'>
+
+<img src='/images/webcast_certificate_one.png'>
+
+<img src='/images/webcast_certificate_two.png'>
+
+<img src='/images/navi.png'>
