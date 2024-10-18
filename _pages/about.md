@@ -1,5 +1,40 @@
 ---
 permalink: /
+title: "Mary Semerdjian's Portfolio"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+👋🏼 Bonjour, I'm Mary!
+
+I attained a Master of Science in Computer Science from California State University, Los Angeles. I served as a graduate assistant for a graduate-level course, assisting 60+ graduate students in a Computer and Network Security course. I completed my Master's Thesis under the supervision of Dr. Zilong Ye during my final year as a graduate student, specializing in the analytical study of Distributed Denial of Service (DDoS) attacks. Utilizing two machine learning datasets, I applied a diverse range of statistical algorithms, basic algorithms, and neural networks to conduct thorough analyses. Furthermore, I finalized one year of a highly structured Capstone Senior Design Program. During the Capstone Senior Design Program, I collaborated with a team to convert MRI images of pelvic organs into three-dimensional model objects. This project was sponsored by the Department of Mechanical Engineering at California State University, Los Angeles.
+
+<br> I possess multiple hands-on experiences, demonstrating proficiency in considerable programming languages and applications.
+
+
+<br>🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, Medical Field, and DataBase. 
+<br>💬 Ask me about anything?
+<br>⚡ Fun fact: I love computers!
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+<!---
+---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
@@ -47,3 +82,6 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
+
+
