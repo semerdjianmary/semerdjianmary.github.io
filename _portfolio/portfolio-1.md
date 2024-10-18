@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Spam Identifier"
+excerpt: "Identifies emails or text messages as spam or ham<br/>"
 collection: portfolio
 ---
+Machine Learning Based Spam Detection that will be able to identify emails or text messages as spam or ham. The project aimed to understand complex Machine Learning Model Algorithms, as well as being able to train and test a big dataset. Lastly, creating a Graphical User Interface for Spam-Identifier.
+[Link to Spam Identifier Project](https://github.com/sliu62/Spam-Identifier)
+<br>
+<br>
 
+<p align="center">
+  <img src='/images/spam.png'/>
+</p>
+
+
+<!---
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+--->
