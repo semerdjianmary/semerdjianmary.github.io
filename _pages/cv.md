@@ -97,3 +97,8 @@ Webcasts
 <img src='/images/webcast_certificate_two.png'>
 
 <img src='/images/navi.png'>
+
+Resume 
+======
+* Resume
+  * [Link to Resume](https://semerdjianmary.github.io/files/resume.pdf)
