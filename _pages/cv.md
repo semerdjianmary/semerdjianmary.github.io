@@ -23,7 +23,7 @@ Work experience
 ======
 * Network Security Graduate Assistant
   * California State University Los Angeles
-  * Supported a graduate-level course, Computer and Network Security class at California State University, Los Angeles, with 60+ graduate students, providing assistance with course material and focusing on networking topics - network security tool.
+  * Supported a graduate-level course, Computer and Network Security class with 60+ graduate students, providing assistance with course material and focusing on networking topics - network security tool.
   * Supervisor: Professor Edmund Gean
 
 * Master Thesis
