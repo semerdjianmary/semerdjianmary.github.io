@@ -43,7 +43,7 @@ Work experience
 Skills
 ======
 * Programming Languages
-  * C++, C, Java, JavaScript, Python, HTML/CSS, PHP, SQL, Haskell, Kotlin, BASIC, Swift
+  * C++, C, Java, JavaScript, Python, HTML/CSS, PHP, SQL, Haskell, Kotlin, BASIC, and Swift
 * Operating Systems
   * Windows, Linux, Mac OS X, Ubuntu, Kali Linux
 * Database Technologies
