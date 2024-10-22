@@ -23,41 +23,33 @@ Work experience
 ======
 * Network Security Graduate Assistant
   * California State University Los Angeles
-  * Assisted a Computer Science Professor at California State University, Los Angeles in a Computer and Network Security class with 60+ graduate students, focusing on network security tools, and supported students in installing and configuring intrusion detection systems, firewalls, and VPNs, among other technologies.
-  * Collaborating with the professor with additional support and contributing to academic education through laboratory work, special projects, and various educational activities, giving students positive feedback, grading their assignments, and enhancing the student's understanding of network security concepts and beyond. 
+  * Supported a graduate-level course, Computer and Network Security class at California State University, Los Angeles, with 60+ graduate students, providing assistance with course material and focusing on networking topics - network security tool.
   * Supervisor: Professor Edmund Gean
 
 * Master Thesis
   * California State University Los Angeles
-  * Wrote a Master Thesis under the supervision of Dr. Zilong Ye during my final year as a graduate student.
-  * Focusing on and researching Distributed Denial of Service (DDoS) attacks.
-  * Utilized two machine learning datasets and applied statistical algorithms, basic algorithms, and neural networks to analyze them.
-  * This experience helped me develop and gain skills in cybersecurity and networking, as well as understand how to use these small and large datasets and how to use GPU to test and train the data.
-  * I applied machine learning, statistical learning, probability theory, and neural networks to analyze the datasets effectively.
+  * Authored a Master’s Thesis under the supervision of Dr. Ye, focusing on research related to Distributed Denial of Service (DDoS) attacks during my final year as a graduate student.
   * Advisor: Dr. Zilong Ye
 
 * Capstone Senior Design Program
   * California State University Los Angeles
-  * Worked with a group to convert MRI images of pelvic organs into three-dimensional model objects.
-  * Learned the basics of 3-D modeling using 3D Slicer, 3-D visualization software, and experimenting with Nvidia AIAA, an API that allows users to conveniently create 3-D model objects using trained data to automate it.
-  * Focused on creating our own AI model and training it using our data – MRI images of pelvic organs and, lastly, training our own AI model using Clara Train SDK. 
+  * Learned professional skills in 3D modeling using 3D Slicer and 3D visualization software and experimented with Nvidia AIAA, an API that enables the creation of 3D model objects from trained data, improving automation.
   * [Link to Senior Capstone Project](https://csns.cysun.org/department/cs/project/view?id=7873479)
   * Advisor: Dr. Negin Forouzesh
   * Sponsored: Dr. Mathias Brieu (Biomedical)
-<img src='/images/seniordesign.png'>
-  
+ 
   
   
 Skills
 ======
 * Programming Languages
-  * C++, C, Java, JavaScript, Python, SQL, Haskell, Kotlin, BASIC, Swift, Jupyter Notebook
+  * C++, C, Java, JavaScript, Python, HTML/CSS, PHP, SQL, Haskell, Kotlin, BASIC, Swift
 * Operating Systems
   * Windows, Linux, Mac OS X, Ubuntu, Kali Linux
-* Web Development
-  * HTML/CSS, Bootstrap, JavaScript, PHP
-* Database Systems
-  * MySQL, MongoDB, phpMyAdmin , MariaDB
+* Database Technologies
+  * MySQL, MariaDB, MongoDB, phpMyAdmin
+* Web Development Framework
+  * Bootstrap 
 * Network Security
   * Cisco
 * Network Scanner
@@ -70,11 +62,18 @@ Skills
   * Wireshark
 * Vulnerability Scanner
   * Nessus
-* Medical & Biomedical Software
-  * 3D Slicer
 * Photo & Design Software
   * Adobe Photoshop
-       
+* Hardware
+  * NVIDIA GeForce RTX
+* Data Visualization Tool
+  * Jupyter Notebook
+* Machine Learning Tools:
+  * Scikit-learn, Neural Networks, and Keras
+* Medical Visualization Tool
+  * 3D Slicer
+ 
+           
 Languages
 ======
 * Bilingual in Armenian and English and basic knowledge of Spanish.
