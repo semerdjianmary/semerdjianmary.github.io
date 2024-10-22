@@ -3,7 +3,7 @@ title: "Spam Identifier"
 excerpt: "Identifies emails or text messages as spam or ham<br/>"
 collection: portfolio
 ---
-Machine Learning Based Spam Detection that will be able to identify emails or text messages as spam or ham. The project aimed to understand complex Machine Learning Model Algorithms, as well as being able to train and test a big dataset. Lastly, creating a Graphical User Interface for Spam-Identifier.
+Machine Learning-Based Spam Detection that will be able to identify emails or text messages as spam or ham. The project aimed to understand complex Machine Learning Model Algorithms, as well as being able to train and test an extensive dataset. Lastly, a graphic user interface for spam-identifier was created.
 [Link to Spam Identifier Project](https://github.com/sliu62/Spam-Identifier)
 <br>
 <br>
