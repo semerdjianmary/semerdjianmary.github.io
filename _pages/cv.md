@@ -100,4 +100,4 @@ Webcasts
 
 Resume 
 ======
-* [Link to Resume](https://semerdjianmary.github.io/files/respro.pdf)
+* [Link to Resume](https://semerdjianmary.github.io/files/resprof.pdf)
