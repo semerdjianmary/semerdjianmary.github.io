@@ -15,7 +15,7 @@ I attained a Master of Science in Computer Science from California State Univers
 <br> I possess multiple hands-on experiences, demonstrating proficiency in considerable programming languages and applications.
 
 
-<br>🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, Medical Field, DataBase, and just about any job. 
+<br>🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, Medical Field, DataBase, Analyst, and just about any job. 
 <br>💬 Ask me about anything?
 <br>⚡ Fun fact: I love computers!
 
