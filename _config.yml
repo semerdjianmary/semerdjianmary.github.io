@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Mary Semerdjian Homepage"
 title_separator          : "-"
-name                     : &name "Mary Semerdjian"
+# name                     : &name "Mary Semerdjian"
 description              : &description "personal description"
 url                      : https://semerdjianmary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
