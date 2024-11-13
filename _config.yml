@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   # name             : "Mary Semerdjian"
-  pronouns         : "she/her"  
-  bio              : "Computer Scientist"
+  # pronouns         : "she/her"  
+  # bio              : "Computer Scientist"
   location         : "Earth"
   employer         : "Cal State LA"
   uri              : # URL
