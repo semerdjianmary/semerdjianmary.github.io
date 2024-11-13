@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -37,7 +36,15 @@ I attained a Master of Science in Computer Science from California State Univers
 
 <!---
 ---
-
+---
+permalink: /
+title: "Portfolio"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 👋🏼 Bonjour, I'm Mary!
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
