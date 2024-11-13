@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mary Semerdjian's Portfolio"
+title: "Portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
