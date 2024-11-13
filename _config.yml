@@ -23,7 +23,7 @@ repository               : "semerdjianmary/semerdjianmary.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mary Semerdjian"
+  # name             : "Mary Semerdjian"
   pronouns         : "she/her"  
   bio              : "Computer Scientist"
   location         : "Earth"
