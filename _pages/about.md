@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Eczar&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Bonjour+👋;+Names+Mary+Semerdjian;+A+Computer+Scientist;If+You+Are+Reading+This+.+.+.;Then+Nice+Meeting+You✌️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Eczar&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Bonjour+👋;+Names+Mary+Semerdjian;+A+Computer+Scientist👩‍🔬;If+You+Are+Reading+This+.+.+.;Then+Nice+Meeting+You✌️" alt="Typing SVG" />
 </h1>
 
 
