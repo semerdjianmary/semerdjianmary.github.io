@@ -72,6 +72,8 @@ Skills
   * Scikit-learn, Neural Networks, and Keras
 * Medical Visualization Tool
   * 3D Slicer
+* Web-Based Rendering Tool 
+  * WebGL
  
            
 Languages
