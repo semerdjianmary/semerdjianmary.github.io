@@ -24,7 +24,7 @@ I attained a Master of Science in Computer Science from California State Univers
 <h2> 🤳 Connect with me:</h2>
 
 <center>
-<img src='/Grigori-Perelman-Quote.png width="600"/>
+<img src='/images/Grigori-Perelman-Quote.png' width="600"/>
 <br>
 </center>
 
