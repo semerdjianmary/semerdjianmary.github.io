@@ -24,7 +24,7 @@ I attained a Master of Science in Computer Science from California State Univers
 <h2> 🤳 Connect with me:</h2>
 
 <center>
-<img src='/7946265-Grigori-Perelman-Quote-Everybody-understood-that-if-the-proof-is.jpg' width="600"/>
+<img src='/Grigori-Perelman-Quote.png width="600"/>
 <br>
 </center>
 
