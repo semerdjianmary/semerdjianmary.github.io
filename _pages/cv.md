@@ -104,7 +104,7 @@ Webcasts
 Projects 
 ======
 * National Student Data Corps
-<embed src="files/NSDC.pdf" width="800px" height="2100px" />
+<embed src="https://semerdjianmary.github.io/files/NSDC.pdf" width="800px" height="2100px" />
 
 
 
