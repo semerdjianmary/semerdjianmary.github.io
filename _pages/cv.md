@@ -99,11 +99,11 @@ Webcasts
 <img src='/images/webcast_certificate_two.png'>
 
 <img src='/images/navi.png'>
+<a href="https://semerdjianmary.github.io/files/NSDC.pdf" target="_blank">NEBDHub's Transportation Data Science Project.</a>
 
 Projects 
 ======
-<a href="https://semerdjianmary.github.io/files/NSDC.pdf" target="_blank">NEBDHub's Transportation Data Science Project.</a>
-<embed src="https://semerdjianmary.github.io/files/NSDC.pdf" type="application/pdf" />
+<embed src="https://semerdjianmary.github.io/files/NSDC.pdf" width="100%" height="850px"/>
 
 
 
