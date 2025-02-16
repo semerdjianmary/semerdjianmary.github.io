@@ -103,5 +103,8 @@ Webcasts
 Projects 
 ======
 * National Student Data Corps
-<a href="files/NSDC.pdf">NEBDHub's Transportation Data Science Project class="image fit"</a>
+<a href="files/NSDC.pdf" class="image fit"></a>
+
+
+ NEBDHub's Transportation Data Science Project class="image fit"</a>
 
