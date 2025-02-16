@@ -103,6 +103,7 @@ Webcasts
 Projects 
 ======
 <a href="https://semerdjianmary.github.io/files/NSDC.pdf" target="_blank">NEBDHub's Transportation Data Science Project.</a>
+<embed src="https://semerdjianmary.github.io/files/NSDC.pdf" type="application/pdf" />
 
 
 
