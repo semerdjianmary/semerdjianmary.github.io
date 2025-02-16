@@ -100,10 +100,11 @@ Webcasts
 
 <img src='/images/navi.png'>
 <a href="https://semerdjianmary.github.io/files/NSDC.pdf" target="_blank">NEBDHub's Transportation Data Science Project.</a>
+
 Projects 
 ======
 * National Student Data Corps
-<embed src="NSDC.pdf" width="800px" height="2100px" />
+<embed src="files/NSDC.pdf" width="800px" height="2100px" />
 
 
 
