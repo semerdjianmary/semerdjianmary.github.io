@@ -104,5 +104,5 @@ Projects
 ======
 <embed src="https://semerdjianmary.github.io/files/NSDC.pdf" width="100%" height="850px"/>
 
-<script src="https://semerdjianmary.github.io/files/NSDC.pdf"></script>
+<script src="https://semerdjianmary.github.io/files/NSDC.pdf">A</script>
 
