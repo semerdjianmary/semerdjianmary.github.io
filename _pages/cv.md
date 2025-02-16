@@ -99,11 +99,11 @@ Webcasts
 <img src='/images/webcast_certificate_two.png'>
 
 <img src='/images/navi.png'>
-
+<a href="https://semerdjianmary.github.io/files/NSDC.pdf" target="_blank">NEBDHub's Transportation Data Science Project.</a>
 Projects 
 ======
 * National Student Data Corps
-<a href="https://semerdjianmary.github.io/files/NSDC.pdf" target="_blank">NEBDHub's Transportation Data Science Project.</a>
+<embed src="NSDC.pdf" width="800px" height="2100px" />
 
 
 
