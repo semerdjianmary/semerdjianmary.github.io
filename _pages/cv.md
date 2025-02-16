@@ -100,6 +100,4 @@ Webcasts
 
 <img src='/images/navi.png'>
 
-Resume 
-======
-* [Link to Resume](https://semerdjianmary.github.io/files/resume.pdf)
+
