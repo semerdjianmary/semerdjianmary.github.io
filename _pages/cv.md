@@ -103,7 +103,7 @@ Webcasts
 Projects 
 ======
 * National Student Data Corps
-<a href="files/NSDC.pdf">NEBDHub's Transportation Data Science Project</a>
+<a href="https://semerdjianmary.github.io/files/NSDC.pdf" target="_blank">NEBDHub's Transportation Data Science Project.</a>
 
 
 
