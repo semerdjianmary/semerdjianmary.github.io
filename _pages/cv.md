@@ -104,4 +104,4 @@ Projects
 ======
 * National Student Data Corps
   * NEBDHub's Transportation Data Science Project
-<img src='/files/NSDC.png'>
+<img src='/files/NSDC.pdf'>
