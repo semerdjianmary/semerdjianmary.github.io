@@ -18,6 +18,7 @@ Education
 * A.S. in Physics for Transfer, Los Angeles City College
 * A.A. in Liberal Arts - Natural Sciences and Mathematics, Los Angeles City College
 * A.A. in Liberal Arts - Arts and Humanities, Los Angeles City College
+* Certificate of Achievement, Statistical Data Analytics, Los Angeles City College (In-Progress)
 
 Work experience
 ======
