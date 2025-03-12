@@ -30,6 +30,7 @@ Work experience
   * California State University Los Angeles
   * Authored a Master’s Thesis under the supervision of Dr. Ye, focusing on research related to Distributed Denial of Service (DDoS) attacks during my final year as a graduate student.
   * Advisor: Dr. Zilong Ye
+  * [Link to Masters Thesis](https://scholarworks.calstate.edu/concern/theses/s4655s18f)
 
 * Capstone Senior Design Program
   * California State University Los Angeles
