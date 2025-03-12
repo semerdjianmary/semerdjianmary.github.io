@@ -20,6 +20,7 @@ I attained a Master of Science in Computer Science from California State Univers
 <br>👯 I’m looking to collaborate on research, hypothesis, testing - training, and experimentations
 <br>💬 Ask me about anything?
 <br>⚡ Fun fact: I love computers!
+<br> [Link to Masters Thesis Paper](https://scholarworks.calstate.edu/concern/theses/s4655s18f)
 
 <h2> 🤳 Connect with me:</h2>
 
