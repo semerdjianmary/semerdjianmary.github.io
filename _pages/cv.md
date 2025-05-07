@@ -37,8 +37,6 @@ Work experience
   * [Link to Senior Capstone Project](https://csns.cysun.org/department/cs/project/view?id=7873479)
   * Advisor: Dr. Negin Forouzesh
   * Sponsored: Dr. Mathias Brieu (Biomedical)
- 
-  
   
 Skills
 ======
