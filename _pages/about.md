@@ -12,9 +12,7 @@ redirect_from:
 
 
 I received a Master of Science in Computer Science from California State University, Los Angeles. I served as a graduate assistant for a graduate-level course, assisting 60+ graduate students in a Computer and Network Security course. I completed my Master's Thesis under the supervision of Dr. Zilong Ye during my final year as a graduate student, specializing in the analytical study of Distributed Denial of Service (DDoS) attacks. Utilizing two machine learning datasets, I applied a diverse range of statistical algorithms, basic algorithms, and neural networks to conduct thorough analyses. Furthermore, I finalized one year of a highly structured Capstone Senior Design Program. During the Capstone Senior Design Program, I collaborated with a team to convert MRI images of pelvic organs into three-dimensional model objects. This project was sponsored by the Department of Mechanical Engineering at California State University, Los Angeles.
-
 <br> I possess multiple hands-on experiences, demonstrating proficiency in considerable programming languages and applications.
-
 
 <br>🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, Medical Field, DataBase, Analyst, and just about any job. 
 <br>👯 I’m looking to collaborate on research, hypothesis, testing - training, and experimentations
