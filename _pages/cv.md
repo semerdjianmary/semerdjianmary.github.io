@@ -46,7 +46,7 @@ Skills
   * Windows, Linux, Mac OS X, Ubuntu, Kali Linux
 * Database Technologies
   * MySQL, MariaDB, MongoDB, phpMyAdmin
-* Statistical Toftware tools
+* Statistical Software Tools
   * R, Statistical Analysis System (SAS)
 * Web Development Framework
   * Bootstrap 
@@ -75,10 +75,6 @@ Skills
 * Web-Based Rendering Tool 
   * WebGL
             
-Languages
-======
-* Bilingual in Armenian and English and basic knowledge of Spanish.
-
 Projects 
 ======
 <embed src="https://semerdjianmary.github.io/files/NSDC.pdf" width="100%" height="850px"/>
@@ -105,5 +101,7 @@ Webcasts
 
 <img src='/images/navi.png'>
 
-
+Languages
+======
+* Bilingual in Armenian and English and basic knowledge of Spanish.
 
