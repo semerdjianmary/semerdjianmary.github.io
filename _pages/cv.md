@@ -48,6 +48,8 @@ Skills
   * Windows, Linux, Mac OS X, Ubuntu, Kali Linux
 * Database Technologies
   * MySQL, MariaDB, MongoDB, phpMyAdmin
+* Statistical Toftware tools
+  * R, Statistical Analysis System (SAS)
 * Web Development Framework
   * Bootstrap 
 * Network Security
@@ -74,12 +76,17 @@ Skills
   * 3D Slicer
 * Web-Based Rendering Tool 
   * WebGL
- 
-           
+            
 Languages
 ======
 * Bilingual in Armenian and English and basic knowledge of Spanish.
-  
+
+Projects 
+======
+<embed src="https://semerdjianmary.github.io/files/NSDC.pdf" width="100%" height="850px"/>
+
+<embed src="https://semerdjianmary.github.io/files/transportation123.pdf" width="100%" height="850px"/>
+
 Certifications 
 ======
 * National Cyber League
@@ -100,9 +107,5 @@ Webcasts
 
 <img src='/images/navi.png'>
 
-Projects 
-======
-<embed src="https://semerdjianmary.github.io/files/NSDC.pdf" width="100%" height="850px"/>
 
-<embed src="https://semerdjianmary.github.io/files/transportation123.pdf" width="100%" height="850px"/>
 
