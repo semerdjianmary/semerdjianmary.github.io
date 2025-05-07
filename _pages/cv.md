@@ -105,3 +105,31 @@ Languages
 ======
 * Bilingual in Armenian and English and basic knowledge of Spanish.
 
+{
+  "type": "Assertion",
+  "id": "https://api.badgr.io/public/assertions/A1ThkKc5SkOIP-WYMO026w",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "gJhcmarI7JCL0n7a",
+    "hashed": true,
+    "identity": "sha256$b205e030bbec6cd080aebd417b5339fd49ed8a16a2f3e80e2cb02ace712f1589"
+  },
+  "badge": "https://api.badgr.io/public/badges/aLgPjgbkTuGT8T246DQa4A",
+  "issuedOn": "2025-04-26T23:00:00Z",
+  "image": {
+    "id": "https://api.badgr.io/public/assertions/A1ThkKc5SkOIP-WYMO026w/image"
+  },
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "extensions:recipientProfile": {
+    "name": "Mary Semerdjian",
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ]
+  }
+}
