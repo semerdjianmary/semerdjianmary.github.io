@@ -37,13 +37,6 @@ Work experience
   * [Link to Senior Capstone Project](https://csns.cysun.org/department/cs/project/view?id=7873479)
   * Advisor: Dr. Negin Forouzesh
   * Sponsored: Dr. Mathias Brieu (Biomedical)
-  
- 
-Projects 
-======
-<embed src="https://semerdjianmary.github.io/files/NSDC.pdf" width="100%" height="850px"/>
-
-<embed src="https://semerdjianmary.github.io/files/transportation123.pdf" width="100%" height="850px"/>
 
 Certifications 
 ======
@@ -54,6 +47,13 @@ Certifications
 * HackerRank
   * SQL Basic
 <img src='/images/sql_basic.png'>
+
+ 
+Projects 
+======
+<embed src="https://semerdjianmary.github.io/files/NSDC.pdf" width="100%" height="850px"/>
+
+<embed src="https://semerdjianmary.github.io/files/transportation123.pdf" width="100%" height="850px"/>
 
 Webcasts 
 ======
