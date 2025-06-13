@@ -38,6 +38,33 @@ Work experience
   * Advisor: Dr. Negin Forouzesh
   * Sponsored: Dr. Mathias Brieu (Biomedical)
   
+ 
+Projects 
+======
+<embed src="https://semerdjianmary.github.io/files/NSDC.pdf" width="100%" height="850px"/>
+
+<embed src="https://semerdjianmary.github.io/files/transportation123.pdf" width="100%" height="850px"/>
+
+Certifications 
+======
+* National Cyber League
+  * NCL Fall 2022 Individual Game
+<img src='/images/ncl-1.png'>
+
+* HackerRank
+  * SQL Basic
+<img src='/images/sql_basic.png'>
+
+Webcasts 
+======
+<img src='/images/webcast_certificate-1.png'>
+
+<img src='/images/webcast_certificate_one.png'>
+
+<img src='/images/webcast_certificate_two.png'>
+
+<img src='/images/navi.png'>
+
 Skills
 ======
 * Programming Languages
@@ -76,32 +103,6 @@ Skills
   * 3D Slicer
 * Web-Based Rendering Tool 
   * WebGL
-            
-Projects 
-======
-<embed src="https://semerdjianmary.github.io/files/NSDC.pdf" width="100%" height="850px"/>
-
-<embed src="https://semerdjianmary.github.io/files/transportation123.pdf" width="100%" height="850px"/>
-
-Certifications 
-======
-* National Cyber League
-  * NCL Fall 2022 Individual Game
-<img src='/images/ncl-1.png'>
-
-* HackerRank
-  * SQL Basic
-<img src='/images/sql_basic.png'>
-
-Webcasts 
-======
-<img src='/images/webcast_certificate-1.png'>
-
-<img src='/images/webcast_certificate_one.png'>
-
-<img src='/images/webcast_certificate_two.png'>
-
-<img src='/images/navi.png'>
 
 Languages
 ======
