@@ -40,6 +40,10 @@ Work experience
 
 Certifications 
 ======
+* SANS Institute
+  * Leveraging LLMs: Building & Securing RAG, Contextual RAG, and Agentic RAG
+<img src='/images/sans.png'>
+
 * National Cyber League
   * NCL Fall 2022 Individual Game
 <img src='/images/ncl-1.png'>
