@@ -52,13 +52,6 @@ Certifications
   * SQL Basic
 <img src='/images/sql_basic.png'>
 
- 
-Projects 
-======
-<embed src="https://semerdjianmary.github.io/files/NSDC.pdf" width="100%" height="850px"/>
-
-<embed src="https://semerdjianmary.github.io/files/transportation123.pdf" width="100%" height="850px"/>
-
 Webcasts 
 ======
 <img src='/images/webcast_certificate-1.png'>
