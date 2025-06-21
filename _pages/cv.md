@@ -55,7 +55,9 @@ Certifications
 Volunteering
 ======
 Holly J Mitchell Juneteenth Celebration and Resource Fair
+
 Roy Campanella Park, Compton, CA
+
 <img src='/images/vol.png'>
 
 Webcasts 
