@@ -52,6 +52,12 @@ Certifications
   * SQL Basic
 <img src='/images/sql_basic.png'>
 
+Volunteering
+======
+Holly J Mitchell Juneteenth Celebration and Resource Fair
+Roy Campanella Park, Compton, CA
+<img src='/images/vol.png'>
+
 Webcasts 
 ======
 <img src='/images/webcast_certificate-1.png'>
