@@ -44,6 +44,10 @@ Certifications
   * Leveraging LLMs: Building & Securing RAG, Contextual RAG, and Agentic RAG
 <img src='/images/sans.png'>
 
+* Johnson and Johnson MedTech
+  * Robotics and Controls
+<img src='/images/completion_certificate.pdf'>
+
 * National Cyber League
   * NCL Fall 2022 Individual Game
 <img src='/images/ncl-1.png'>
