@@ -85,7 +85,7 @@ Skills
 * Database Technologies
   * MySQL, MariaDB, MongoDB, phpMyAdmin
 * Statistical Software Tools
-  * R, Statistical Analysis System (SAS)
+  * Statistical Analysis System (SAS)
 * Web Development Framework
   * Bootstrap 
 * Network Security
