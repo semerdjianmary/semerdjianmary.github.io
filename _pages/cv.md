@@ -115,4 +115,4 @@ Skills
 
 Languages
 ======
-* Bilingual in Armenian and English and basic knowledge of Spanish.
+* Bilingual in Armenian and English and basic knowledge of Spanish and Russian.
