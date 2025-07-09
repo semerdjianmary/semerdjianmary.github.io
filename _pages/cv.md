@@ -46,7 +46,7 @@ Certifications
 
 * Johnson and Johnson MedTech
   * Robotics and Controls
-<img src='/images/completion_certificate.pdf'>
+<img src='/files/completion_certificate.pdf'>
 
 * National Cyber League
   * NCL Fall 2022 Individual Game
