@@ -40,18 +40,23 @@ Work experience
 
 Certifications 
 ======
-* Mastercard 
-  * Cybersecurity Job Simulation
-    * Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team
-    * Helped identify and report security threats such as phishing
-    * Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams 
+* Mastercard Cybersecurity Job Simulation on Forage - August 2025 
+    * Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.
+    * Helped identify and report security threats such as phishing.
+    * Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams. 
 <img src='/images/Mastercard.png'>
 
-* British Airways
-  * Data Science Job Simulation
-    * Completed a simulation focussing on how data science is a critical component of British Airways' success.
-    * Scraped and analysed customer review data to uncover findings.
-    * Built a predictive model to understand factors that influence buying behaviou 
+* British Airways Data Science Job Simulation on Forage - August 2025
+* * Completed a simulation focussing on how data science is a critical component of British Airways' success.
+  * Scraped and analysed customer review data to uncover findings.
+  * Built a predictive model to understand factors that influence buying behaviour.
+<img src='/images/britishairways.png'>
+
+* Deloitte
+  * Cyber Job Simulation
+    * Completed a job simulation involving reading web activity logs.
+    * Supported a client in a cyber security breach.
+    * Answered questions to identify suspicious user activity.
 <img src='/images/britishairways.png'>
 
 * Johnson and Johnson MedTech
