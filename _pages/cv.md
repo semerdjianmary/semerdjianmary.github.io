@@ -40,13 +40,21 @@ Work experience
 
 Certifications 
 ======
-* SANS Institute
-  * Leveraging LLMs: Building & Securing RAG, Contextual RAG, and Agentic RAG
-<img src='/images/sans.png'>
+* Johnson and Johnson MedTech
+  * Robotics and Controls
+<img src='/images/completion_certificate.png'>
 
 * Johnson and Johnson MedTech
   * Robotics and Controls
 <img src='/images/completion_certificate.png'>
+
+* Johnson and Johnson MedTech
+  * Robotics and Controls
+<img src='/images/completion_certificate.png'>
+
+* SANS Institute
+  * Leveraging LLMs: Building & Securing RAG, Contextual RAG, and Agentic RAG
+<img src='/images/sans.png'>
 
 * National Cyber League
   * NCL Fall 2022 Individual Game
