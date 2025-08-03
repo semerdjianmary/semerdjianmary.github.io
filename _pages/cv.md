@@ -52,12 +52,11 @@ Certifications
   * Built a predictive model to understand factors that influence buying behaviour.
 <img src='/images/britishairways.png'>
 
-* Deloitte
-  * Cyber Job Simulation
+* Deloitte Cyber Job Simulation - August 2025
     * Completed a job simulation involving reading web activity logs.
     * Supported a client in a cyber security breach.
     * Answered questions to identify suspicious user activity.
-<img src='/images/britishairways.png'>
+<img src='/images/deloitte.png'>
 
 * Johnson and Johnson MedTech
   * Robotics and Controls
