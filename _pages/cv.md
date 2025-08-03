@@ -58,8 +58,11 @@ Certifications
     * Answered questions to identify suspicious user activity.
 <img src='/images/deloitte.png'>
 
-* Johnson and Johnson MedTech
-  * Robotics and Controls
+* Johnson & Johnson robotics and controls job simulation on Forage - July 2025
+    * Completed a job simulation as a robotics & controls engineering intern at Johnson & Johnson, focusing on optimizing a surgical robotic arm's performance.
+    * Used Python-based tools to diagnose control system inefficiencies, identify root causes of delays, and implement targeted optimizations.
+    * Proposed actionable design modifications using annotated technical visuals, validating their impact on responsiveness and durability through iterative testing.
+    * Developed a professional design proposal outlining findings, solutions, and recommendations for improving precision and reliability in robotic systems. 
 <img src='/images/completion_certificate.png'>
 
 * SANS Institute
