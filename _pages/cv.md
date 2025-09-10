@@ -23,20 +23,13 @@ Work experience
 ======
 * Network Security Graduate Assistant
   * California State University Los Angeles
-  * Supported a graduate-level course, Computer and Network Security class with 60+ graduate students, providing assistance with course material and focusing on networking topics - network security tool.
-  * Supervisor: Professor Edmund Gean
 
 * Master Thesis
   * California State University Los Angeles
-  * Authored a Master’s Thesis under the supervision of Dr. Ye, focusing on research related to Distributed Denial of Service (DDoS) attacks during my final year as a graduate student.
-  * Advisor: Dr. Zilong Ye
 
 * Capstone Senior Design Program
   * California State University Los Angeles
-  * Learned professional skills in 3D modeling using 3D Slicer and 3D visualization software and experimented with Nvidia AIAA, an API that enables the creation of 3D model objects from trained data, improving automation.
   * [Link to Senior Capstone Project](https://csns.cysun.org/department/cs/project/view?id=7873479)
-  * Advisor: Dr. Negin Forouzesh
-  * Sponsored: Dr. Mathias Brieu (Biomedical)
 
 Certifications 
 ======
