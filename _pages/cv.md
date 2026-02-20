@@ -45,6 +45,11 @@ Certifications
     * LA Community College District
 <img src='/images/Teamwork_Collaboration_andConflictResolution.png'>
 
+* Professionalism Integrity and Ethics - February 2026
+    * Completed a Medical and Billing course.
+    * LA Community College District
+<img src='/images/Professionalism_Integrity_andEthics_Badge.png'>
+
 * Mastercard Cybersecurity Job Simulation on Forage - August 2025 
     * Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.
     * Helped identify and report security threats such as phishing.
