@@ -38,8 +38,8 @@ Certifications
 * Basic Medical Terminology - February 2026
     * Completed a Basic Medical Terminology, Pathophysiology, and Pharmacology course.
     * LA Community College District
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2f8386f4-cc1a-4885-a516-dfc28c288cdf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-      
+<img src='/images/BasicMedicalTerminology_Badge.png'>
+
 * Mastercard Cybersecurity Job Simulation on Forage - August 2025 
     * Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.
     * Helped identify and report security threats such as phishing.
