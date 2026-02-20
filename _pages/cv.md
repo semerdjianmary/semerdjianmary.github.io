@@ -35,6 +35,11 @@ Work experience
 
 Certifications 
 ======
+* Basic Medical Terminology - February 2026
+    * Completed a Basic Medical Terminology, Pathophysiology, and Pharmacology course.
+    * LA Community College District
+<embed src="https://www.credly.com/badges/2f8386f4-cc1a-4885-a516-dfc28c288cdf/public_url" width="100%" height="850px"/>
+      
 * Mastercard Cybersecurity Job Simulation on Forage - August 2025 
     * Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.
     * Helped identify and report security threats such as phishing.
