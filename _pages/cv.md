@@ -28,6 +28,7 @@ Work experience
 
 * Master Thesis
   * California State University Los Angeles
+  * [Link to Masters Thesis Paper](https://scholarworks.calstate.edu/concern/theses/s4655s18f)
 
 * Capstone Senior Design Program
   * California State University Los Angeles
