@@ -23,6 +23,12 @@ Education
 
 Work experience
 ======
+* Data Science Teaching Assistant 
+  * Los Angeles City College
+
+* Calculus Teaching Assistant
+  * Los Angeles City College
+  
 * Network Security Graduate Assistant
   * California State University Los Angeles
 
