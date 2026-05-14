@@ -103,6 +103,18 @@ Roy Campanella Park, Compton, CA
 
 <img src='/images/vol.png'>
 
+Jewel City Hacks
+
+Glendale Community College
+
+Grad Fair
+
+California State University, Los Angeles 
+
+Food Forward 
+
+Santa Monica, CA
+
 Webcasts 
 ======
 <img src='/images/webcast_certificate-1.png'>
@@ -126,7 +138,7 @@ Skills
 * Operating Systems
   * Windows, Linux, Mac OS X, Ubuntu, Kali Linux
 * Database Technologies
-  * MySQL, MariaDB, MongoDB, phpMyAdmin
+  * MySQL, MariaDB, MongoDB, phpMyAdmin, DBeaver, Node.js, Express.js, and Django
 * Statistical Software Tools
   * Statistical Analysis System (SAS)
 * Web Development Framework
@@ -147,9 +159,11 @@ Skills
   * Adobe Photoshop
 * Hardware
   * NVIDIA GeForce RTX
+* DevOps
+  * Git, Docker, PowerShell, Bash, AWS, Windows, macOS
 * Data Visualization Tool
   * Jupyter Notebook
-* Machine Learning Tools:
+* Machine Learning Tools
   * TensorFlow, Neural Networks, Pandas, Numpy, Keras, Matplotlib, Seaborn, PyTorch, XGBoost, Deep Learning, and Scikit-Learn
 * Medical Visualization Tool
   * 3D Slicer
