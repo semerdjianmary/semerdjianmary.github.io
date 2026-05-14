@@ -36,10 +36,6 @@ Work experience
   * California State University Los Angeles
   * [Link to Masters Thesis Paper](https://scholarworks.calstate.edu/concern/theses/s4655s18f)
 
-* Capstone Senior Design Program
-  * California State University Los Angeles
-  * [Link to Senior Capstone Project](https://csns.cysun.org/department/cs/project/view?id=7873479)
-
 Certifications 
 ======
 * Basic Medical Terminology - February 2026
