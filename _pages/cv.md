@@ -150,11 +150,13 @@ Skills
 * Data Visualization Tool
   * Jupyter Notebook
 * Machine Learning Tools:
-  * Scikit-learn, Neural Networks, and Keras
+  * TensorFlow, Neural Networks, Pandas, Numpy, Keras, Matplotlib, Seaborn, PyTorch, XGBoost, Deep Learning, and Scikit-Learn
 * Medical Visualization Tool
   * 3D Slicer
 * Web-Based Rendering Tool 
   * WebGL
+* Soft Skills
+  * Team Leadership, Technical Writing, Technical Documentation, Analytical Thinking, Testing, Agile Methodology, Design Modification, Creativity, Critical Thinking, Algorithmic Solutioning, Analytical Problem-Solving, Design Thinking
 
 Languages
 ======
