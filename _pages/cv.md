@@ -103,9 +103,9 @@ Roy Campanella Park, Compton, CA
 
 <img src='/images/vol.png'>
 
-Jewel City Hacks
+Jewel City Hacks 4.0
 
-Glendale Community College
+Glendale Community College, CA
 
 Grad Fair
 
