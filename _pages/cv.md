@@ -116,6 +116,8 @@ Santa Monica, CA
 
 Webcasts 
 ======
+
+<img src='/images/Screenshot 2026-09-02 092545.png'>
 <img src='/images/webcast_certificate-1.png'>
 
 <img src='/images/webcast_certificate_one.png'>
